@@ -84,8 +84,8 @@ This project extracts meaningful insights such as:
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/Malve-Roshni/supermarket-sales-analysis-sql.git
-cd Sales_Analysis_SQL
+git clone https://github.com/Malve-Roshni/Supermarket_Sales_Analysis_MySQL.git
+cd supermarket_sales_analysis_MySQL
 ```
 
 ### **2️⃣ Import Dataset into MySQL**
@@ -109,7 +109,8 @@ SOURCE sql_queries/basic_analysis.sql;
 ## 📄 About
 **Supermarket Sales Analysis using SQL**: This project is designed to provide actionable insights into supermarket sales data using effective SQL queries for meaningful analysis.
 
-👉 **GitHub Repository:** [Supermarket Sales Analysis](https://github.com/Malve-Roshni/supermarket-sales-analysis-sql)
+👉 **GitHub Repository:** [Supermarket Sales Analysis](https://github.com/Malve-Roshni/supermarket_sales_analysis_MySQL)
+
 
 ---
 
