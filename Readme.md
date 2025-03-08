@@ -84,7 +84,7 @@ This project extracts meaningful insights such as:
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/Malve-Roshni/Supermarket_Sales_Analysis_MySQL.git
+git clone https://github.com/Malve-Roshni/supermarket_sales_analysis_MySQL.git
 cd supermarket_sales_analysis_MySQL
 ```
 
